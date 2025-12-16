@@ -54,6 +54,7 @@ Here are a few sample screens from the redesign:
 You can view Figma UI prototypes here
 * Prototype of Old Design - [View Prototype](https://www.figma.com/proto/eixb8LWmpMB3Mgwdn8Xnvs/FAMT-Placements?node-id=4-37&p=f&t=LTVRjR71zMe5FcZV-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A37&show-proto-sidebar=1)
 * Prototype of New Design - [View Prototype](https://www.figma.com/proto/eixb8LWmpMB3Mgwdn8Xnvs/FAMT-Placements?node-id=32-548&p=f&t=LTVRjR71zMe5FcZV-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A548&show-proto-sidebar=1)
+* Figma file link - [Click Here](https://www.figma.com/design/eixb8LWmpMB3Mgwdn8Xnvs/FAMT-Placements?node-id=0-1&p=f&t=jpML0TUuWakwa4E4-0)
 * College Official website - [FAMT - Training and Placement Department](https://famt.ac.in/tnp/)
 
 ---
