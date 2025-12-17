@@ -1,7 +1,7 @@
 # College Website Section Redesign (UI/UX Project)
 
 
-This project was completed after my Master’s final semester, when my professor recognized my **UI/UX design skills** and proposed a real-world project: **redesigning the 'Training and Placement' section of the official college website**.  
+This project was completed after my Master’s final semester (June 2022), when my professor recognized my **UI/UX design skills** and proposed a real-world project: **redesigning the 'Training and Placement' section of the official college website**.  
 
 *College Name* :- **Finolex Academy of Management & Technology (FAMT), Ratnagiri, Maharashtra - 415639**
 
